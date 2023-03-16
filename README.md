@@ -3,7 +3,7 @@
 
 #   Project 07-dht
 
-    IntroComp - Austral 2022 - EAM
+    Electronica Digital - Austral 2023 - EAM
     
 ##   Temperature and humidity measurement using DHT-XX sensor
 
