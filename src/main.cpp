@@ -5,7 +5,7 @@
  *
  *   Temperature and humidity measurement using DHT-XX sensor
  *
- *         Requieres following libraries
+ *         Requires following libraries
  *         - DHT Sensor Library
  *         - Adafruit Unified Sensor Library
  */
